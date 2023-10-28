@@ -1,3 +1,3 @@
 # WebPie
-![(https://github.com/legitbox/BDSX-Home-Pilot/blob/toast/BHPicon.png?raw=true)](https://github.com/legitbox/BDSX-Home-Pilot/blob/toast/BHPicon.png?raw=true)
+![(https://github.com/legitbox/WebPie/blob/main/piepanel.png?raw=true)](https://github.com/legitbox/WebPie/blob/main/piepanel.png?raw=true)
 a web console panel for your PieMC server
